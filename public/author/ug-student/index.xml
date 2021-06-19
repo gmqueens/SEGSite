@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>UG Student | Sensorimotor Exploration Group</title>
+    <link>/author/ug-student/</link>
+      <atom:link href="/author/ug-student/index.xml" rel="self" type="application/rss+xml" />
+    <description>UG Student</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Sensorimotor Exploration Group</copyright>
+    <image>
+      <url>/author/ug-student/avatar_hu52a603635ecebd45650b162dadabb4e5_12861_270x270_fill_q75_lanczos_center.jpg</url>
+      <title>UG Student</title>
+      <link>/author/ug-student/</link>
+    </image>
+    
+  </channel>
+</rss>
